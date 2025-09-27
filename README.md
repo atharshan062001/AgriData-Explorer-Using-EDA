@@ -25,7 +25,6 @@ It provides statistical insights and interactive dashboards for understanding tr
 ![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-gray?logo=numpy&logoColor=white&labelColor=013243)
 ![SciPy](https://img.shields.io/badge/SciPy-Statistical%20Analysis-gray?logo=scipy&logoColor=white&labelColor=8C5E9C)
 ![Google%20Colab](https://img.shields.io/badge/Google%20Colab-Notebook-gray?logo=google-colab&logoColor=white&labelColor=f9ab00)
-![Streamlit](https://img.shields.io/badge/Streamlit-Interactive%20Web%20App-gray?logo=streamlit&logoColor=white&labelColor=FF4B4B)
 ![Power%20BI](https://img.shields.io/badge/Power%20BI-Business%20Dashboards-gray?logo=power-bi&logoColor=white&labelColor=F2C811)
 
 ---
@@ -42,11 +41,11 @@ It provides statistical insights and interactive dashboards for understanding tr
 
 ## 🧪 Sample Insights
 
-- 📈 Year‑wise trend of rice production across top 3 states  
-- 🌾 Districts with highest wheat yield in last 5 years  
-- 🛢️ Top oilseed producing states and their growth  
-- 🌽 Area vs. production correlation for major crops  
-- 🧵 Cotton production trends and groundnut yield by district
+- 📈 Top 3 Year-Wise Trend Of Rice Production Across States  
+- 🌾 Top 5 Districts by Wheat Yield Increase Over the Last 5 Years  
+- 🛢️ Highest Growth in Oilseed Production States (Last 5 Years)
+- 🌽 Last 50  Years Of Rice Vs Wheat Production (1000 tons)
+- 🧵 Top 7 Sunflower Production States
 
 ---
 
@@ -77,12 +76,7 @@ The following Python libraries are required:
 - scipy  
 - plotly
 - sqlalchemy  
-- psycopg2-binary 
-
-### 4. Run the Streamlit app
-```bash
-streamlit run app/main.py
-```
+- psycopg2-binary
 
 ---
 
@@ -98,7 +92,7 @@ streamlit run app/main.py
 Project developed by **Atharshan Shriram MD**
 
 📧 atharshan062001@gmail.com  
-🐙 [GitHub](https://github.com/atharshan062001)  
+🐙 [GitHub](https://github.com/atharshan-shriram)  
 🔗 [LinkedIn](https://www.linkedin.com/in/atharshan-shriram/)
 
 ## ⭐ Give a Star!

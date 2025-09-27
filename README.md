@@ -32,8 +32,6 @@ It provides statistical insights and interactive dashboards for understanding tr
 
 ## 📊 Power BI Dashboard
 
-📁 Located in the `dashboards/` folder  
-
 #### 📌 Power BI Dashboard Preview
 
 ![Power BI Preview](https://github.com/user-attachments/assets/38a7c5ea-d483-408e-b693-6d8d01c95018)

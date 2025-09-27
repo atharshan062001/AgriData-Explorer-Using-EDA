@@ -58,7 +58,7 @@ It provides statistical insights and interactive dashboards for understanding tr
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Infant-Joshva/Project_2-Agri_Data_Explorer.git
+git clone [https://github.com/atharshan062001/AgriData-Explorer-Using-EDA.git]
 cd Project_2-Agri_Data_Explorer
 ```
 

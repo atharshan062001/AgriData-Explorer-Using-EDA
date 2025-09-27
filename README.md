@@ -58,8 +58,8 @@ It provides statistical insights and interactive dashboards for understanding tr
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/atharshan062001/AgriData-Explorer-Using-EDA.git]
-cd Project_2-Agri_Data_Explorer
+git clone https://github.com/atharshan062001/AgriData-Explorer-Using-EDA.git
+cd AgriData-Explorer-Using-EDA
 ```
 
 ### 2. Create virtual environment
@@ -79,8 +79,7 @@ The following Python libraries are required:
 
 - pandas  
 - scipy  
-- plotly  
-- streamlit  
+- plotly
 - sqlalchemy  
 - psycopg2-binary 
 
@@ -103,7 +102,7 @@ streamlit run app/main.py
 Project developed by **Atharshan Shriram MD**
 
 📧 atharshan062001@gmail.com  
-🐙 [GitHub](https://github.com/Infant-Joshva)  
+🐙 [GitHub](https://github.com/atharshan062001)  
 🔗 [LinkedIn](https://www.linkedin.com/in/atharshan-shriram/)
 
 ## ⭐ Give a Star!

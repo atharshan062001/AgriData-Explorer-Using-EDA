@@ -7,7 +7,6 @@ It provides statistical insights and interactive dashboards for understanding tr
 
 ## 🚀 Key Features
 
-- 🔍 Exploratory Data Analysis via Streamlit  
 - 📈 Interactive visualizations using Plotly  
 - 📊 Power BI Dashboard for state/district level insights  
 - 🧪 Statistical computations with SciPy
@@ -138,7 +137,7 @@ streamlit run app/main.py
 
 Project developed by **Atharshan Shriram MD**
 
-📧 infantjoshva2024@gmail.com  
+📧 atharshan062001@gmail.com  
 🐙 [GitHub](https://github.com/Infant-Joshva)  
 🔗 [LinkedIn](https://www.linkedin.com/in/atharshan-shriram/)
 

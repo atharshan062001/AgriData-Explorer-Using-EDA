@@ -30,20 +30,6 @@ It provides statistical insights and interactive dashboards for understanding tr
 
 ---
 
-### 📊 Streamlit Dashboard Preview
-
-#### 📌 Rice vs Wheat Production Over the Last 50 Years
-
-![Rice vs Wheat Production](https://github.com/user-attachments/assets/e8184377-0eac-4e07-8bbd-e5a45b6af532)
-
----
-
-#### 📌 Impact of Area Cultivated on Rice, Wheat, and Maize Production
-
-![Impact of Area Cultivated](https://github.com/user-attachments/assets/451b7a3e-17ec-4157-9e3a-d866940f8c6a)
-
----
-
 ## 📊 Power BI Dashboard
 
 📁 Located in the `dashboards/` folder  

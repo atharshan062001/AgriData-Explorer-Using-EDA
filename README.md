@@ -58,8 +58,8 @@ It provides statistical insights and interactive dashboards for understanding tr
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/atharshan062001/AgriData-Explorer-Using-EDA.git
-cd AgriData-Explorer-Using-EDA
+git clone https://github.com/atharshan062001/Project_2-AgriData-Explorer-Using-EDA.git
+cd Project_2-AgriData-Explorer-Using-EDA
 ```
 
 ### 2. Create virtual environment

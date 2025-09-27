@@ -38,9 +38,7 @@ It provides statistical insights and interactive dashboards for understanding tr
 
 ![Power BI Preview](https://github.com/user-attachments/assets/38a7c5ea-d483-408e-b693-6d8d01c95018)
 --
-![Power BI Preview](https://github.com/user-attachments/assets/1a3c0e4c-9370-4963-a720-ac60245163e9)
---
-![Power BI Preview](https://github.com/user-attachments/assets/8b459b52-be8f-4f45-a854-308b75991f0b)
+![Power BI Preview](https://github.com/user-attachments/assets/c6ff4727-ceef-4f6e-b8af-7f582f9097be)
 
 ---
 

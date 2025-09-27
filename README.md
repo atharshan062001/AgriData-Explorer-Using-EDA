@@ -28,27 +28,6 @@ It provides statistical insights and interactive dashboards for understanding tr
 ![Streamlit](https://img.shields.io/badge/Streamlit-Interactive%20Web%20App-gray?logo=streamlit&logoColor=white&labelColor=FF4B4B)
 ![Power%20BI](https://img.shields.io/badge/Power%20BI-Business%20Dashboards-gray?logo=power-bi&logoColor=white&labelColor=F2C811)
 
-
-
----
-
-## 📁 Project Structure
-
-```
-Project_2-Agri_Data_Explorer/
-├── app/                # Streamlit app code
-│   └── main.py
-├── data/               # Raw and cleaned datasets
-├── scripts/            # ETL scripts
-├── dashboards/         # Power BI .pbix files
-├── notebooks/          # Google Colab notebooks
-├── images,videos/      # Visuals for dashboard & Project demonstration video
-├── requirements.txt    # Python dependencies
-├── README.md           # Project documentation
-├── LICENSE             # Open-source license
-└── .gitignore          # Files to be ignored by Git
-```
-
 ---
 
 ### 📊 Streamlit Dashboard Preview
